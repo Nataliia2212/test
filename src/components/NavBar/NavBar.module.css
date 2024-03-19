@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 10px 20px;
+  background-color: rgb(45, 123, 232);
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  align-items: center;
+}
+.outletWrapper {
+  padding: 0 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
